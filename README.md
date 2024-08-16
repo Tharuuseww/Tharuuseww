@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tharuuseww.github.io/MyPortfolio/](https://tharuuseww.github.io/MyPortfolio/)
 
-- 📝 Know about my Skills [www.linkedin.com/in/tharushi-sewwandi-6a6573288](www.linkedin.com/in/tharushi-sewwandi-6a6573288)
+- 📝 Know about my Skills [www.linkedin.com/in/tharushi-sewwandi-6a6573288)
 
 - 💬 Ask me about **HTML,CSS, JAVA ,C++**
 
