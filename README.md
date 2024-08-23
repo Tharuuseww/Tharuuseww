@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **React js & Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://tharuuseww.github.io/MyPortfolio/](https://tharuuseww.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [https://tharuuseww.github.io/TharuuSewwandi/](https://tharuuseww.github.io/TharuuSewwandi/)
 
 - 📝 Know about my Skills [www.linkedin.com/in/tharushi-sewwandi-6a6573288)
 
